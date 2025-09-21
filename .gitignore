@@ -1,0 +1,10 @@
+expl.txt
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+files_map.json
+.DS_Store
